@@ -6,6 +6,7 @@ suggestions to improve your fit for the role.
 
 **100% free and local.** No API key, no paid services, no data leaves
 your machine.
+Try it live - https://resume-analyzer-9epzpuutmou9bum79ypi2b.streamlit.app/
 
 ## How it works
 
